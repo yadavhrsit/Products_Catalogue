@@ -1,0 +1,9 @@
+.category-img {
+    height: 120px;
+    width: 95%;
+    border-radius: 25px;
+    margin: auto;
+    background: url(https://m.apnlive.com/sortd-service/imaginary/v22-01/jpg/large/high?url=YXBuLW5ld3MtcHJvZC1zb3J0ZC9tZWRpYTZhOWQzMDkwLTZlNTctMTFlZC1hYzEzLTY1ZGYwYTU5YTUzNi5qcGc=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

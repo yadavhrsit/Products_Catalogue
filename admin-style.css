@@ -1,0 +1,21 @@
+.card-add-items {
+    width: 100%;
+    padding: 2px 16px 2px 16px;
+}
+
+.card-add-items * {
+    width: 100%;
+    display: block;
+}
+
+.card-add-items input,
+.card-add-items select {
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    border: 2px solid #499E8A;
+}
+
+.card-add-items input+label {
+    margin-top: 10px;
+}
